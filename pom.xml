@@ -36,7 +36,7 @@
     <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
     <quarkus.platform.version>3.7.2</quarkus.platform.version>
     <skipITs>true</skipITs>
-    <surefire-plugin.version>3.2.3</surefire-plugin.version>
+    <surefire-plugin.version>3.5.4</surefire-plugin.version>
     <version.com.mycila>4.1</version.com.mycila>
     <version.net.revelc.code.formatter.formatter-maven-plugin>2.21.0</version.net.revelc.code.formatter.formatter-maven-plugin>
   </properties>
